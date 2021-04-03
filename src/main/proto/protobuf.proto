@@ -19,7 +19,7 @@ service FuncionarioService{
 
 enum Cargo{
 
-    DEV = 0;
+    DEV = 0; // default
     QA = 1;
     GERENTE = 2;
 }
